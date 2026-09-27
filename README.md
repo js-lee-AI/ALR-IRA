@@ -1,14 +1,8 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="ALR-IRA, target-rollout supervision for block drafters on fixed corpora" />
+  <img src="assets/banner.png" width="100%" alt="ALR-IRA, recovering off-policy supervision for speculative decoding" />
 </p>
 
 <div align="center">
-
-# ALR-IRA
-
-### Target-rollout supervision for block drafters on fixed corpora
-
-<em>Recovering Off-Policy Supervision for Speculative Decoding</em>
 
 [![Code MIT](https://img.shields.io/badge/Code-MIT-green.svg)](LICENSE)
 [![Paper CC BY 4.0](https://img.shields.io/badge/Paper-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
