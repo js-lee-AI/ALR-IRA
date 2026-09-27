@@ -1,0 +1,21 @@
+{
+  "target": "Qwen/Qwen3-4B",
+  "draft_init": "z-lab/Qwen3-4B-DFlash-b16",
+  "is_vlm": false,
+  "max_length": 1024,
+  "chat_template": "qwen3-instruct",
+  "embedding_key": "model.embed_tokens.weight",
+  "lm_head_key": "model.embed_tokens.weight",
+  "kd_scale": 1.0,
+  "epochs": 3,
+  "global_batch_size": 24,
+  "learning_rate": 0.0014697,
+  "block_size": 16,
+  "num_anchors": 128,
+  "gamma": 2.0,
+  "dflash_gamma": 2.0,
+  "topk": 8,
+  "min_pixels": 50176,
+  "max_pixels": 200704,
+  "data_order_seed": 0
+}

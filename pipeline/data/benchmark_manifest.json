@@ -1,0 +1,30 @@
+{
+  "mt-bench": {
+    "count": 80,
+    "prompt_sha256": "faa11e7caf3e1fc2e94d6428175fedab9f05bc8f575ce86788a2a0117f4087c3"
+  },
+  "alpaca": {
+    "count": 80,
+    "prompt_sha256": "666a11fbb9fd77b63db3d27d0887aac978fa421f8e20998a1d0aea4ff0ba1a0a"
+  },
+  "gsm8k": {
+    "count": 1319,
+    "prompt_sha256": "5b58663c4d177e3a76224a5de251b285043c7a71e26d1b080044d1d249a9c2de"
+  },
+  "aime24": {
+    "count": 30,
+    "prompt_sha256": "8e2de1c36a187102f4a4e65f22d28d00fb66e9fe9f409f761104ba32af8cbc22"
+  },
+  "aime25": {
+    "count": 30,
+    "prompt_sha256": "396aaf7399c06dbd139dc98d9ef7579410c93161a87572b9603087064cb40f5c"
+  },
+  "humaneval": {
+    "count": 164,
+    "prompt_sha256": "7ab9856195e005b1db432079c28e1a72cd07ac598287b6d0a9c5297c69bb9708"
+  },
+  "livecodebench": {
+    "count": 400,
+    "prompt_sha256": "bbe578f68713c42663951cf37e578379e8780f7e1c40809aeebb949ee8f27f10"
+  }
+}

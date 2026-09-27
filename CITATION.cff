@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "ALR-IRA: code for Recovering Off-Policy Supervision for Speculative Decoding"
+type: software
+authors:
+  - family-names: Lee
+    given-names: Jungseob
+  - family-names: Park
+    given-names: Chanjun
+  - family-names: Eo
+    given-names: Sugyeong
+  - family-names: Moon
+    given-names: Hyeonseok
+repository-code: "https://github.com/js-lee-AI/ALR-IRA"
+license: MIT
+version: "0.1.0"
+date-released: "2026-09-28"
+keywords:
+  - "speculative decoding"
+  - "draft model"
+  - "knowledge distillation"
+  - "vision-language models"
+preferred-citation:
+  type: article
+  title: "Recovering Off-Policy Supervision for Speculative Decoding"
+  authors:
+    - family-names: Lee
+      given-names: Jungseob
+    - family-names: Park
+      given-names: Chanjun
+    - family-names: Eo
+      given-names: Sugyeong
+    - family-names: Moon
+      given-names: Hyeonseok
+  year: 2026

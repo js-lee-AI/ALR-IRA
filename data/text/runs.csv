@@ -1,0 +1,15 @@
+run,method,seed,timed
+dflash-s0,dflash,0,yes
+dflash-s1,dflash,1,yes
+erase-s0,erase,0,yes
+erase-s1,erase,1,yes
+alr-s0,alr,0,yes
+alr-s1,alr,1,yes
+alr_ira-s0,alr_ira,0,yes
+alr_ira-s1,alr_ira,1,yes
+erase-s2,erase,2,no
+alr-s2,alr,2,no
+kd-s1,kd,1,no
+kd-s2,kd,2,no
+alr_gate-s1,alr_gate,1,no
+alr_gate-s2,alr_gate,2,no
