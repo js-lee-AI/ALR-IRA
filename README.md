@@ -4,6 +4,7 @@
 
 <div align="center">
 
+[![arXiv](https://img.shields.io/badge/arXiv-2609.38795-b31b1b.svg)](https://arxiv.org/abs/2609.38795)
 [![Code MIT](https://img.shields.io/badge/Code-MIT-green.svg)](LICENSE)
 [![Paper CC BY 4.0](https://img.shields.io/badge/Paper-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
@@ -398,11 +399,13 @@ If you use this code, please cite the paper.
 @article{lee2026recovering,
   title   = {Recovering Off-Policy Supervision for Speculative Decoding},
   author  = {Lee, Jungseob and Park, Chanjun and Eo, Sugyeong and Moon, Hyeonseok},
-  year    = {2026}
+  journal = {arXiv preprint arXiv:2609.38795},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2609.38795}
 }
 ```
 
-The arXiv identifier is added here once it is assigned. The Cite this repository button in the GitHub sidebar gives the same entry from [`CITATION.cff`](CITATION.cff).
+The Cite this repository button in the GitHub sidebar gives the same entry from [`CITATION.cff`](CITATION.cff).
 
 ## License
 
