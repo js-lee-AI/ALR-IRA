@@ -16,6 +16,12 @@
 
 </div>
 
+<p align="center">
+  <a href="https://js-lee-ai.github.io/ALR-IRA/#race"><img src="assets/replay.gif" width="100%" alt="Four decoders each write the same 117-token answer to one TextVQA question with Qwen3-VL-8B on one H100. ALR + IRA finishes in 0.66 s, DFlash in 1.32 s, EAGLE-3 in 1.74 s and autoregressive decoding in 2.87 s" /></a>
+</p>
+
+<p align="center"><em>Qwen3-VL-8B on one H100. The <a href="https://js-lee-ai.github.io/ALR-IRA/#race">project page</a> replays it live.</em></p>
+
 ---
 
 ## News
